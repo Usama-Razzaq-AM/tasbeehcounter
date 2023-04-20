@@ -1,12 +1,3 @@
-//document.getElementById("count").innerText=5;
-
-//initialize the count as 0
-//listen for clicks on increment button
-//increment the count variable when button is clicked (log it out)
-//change the count-el in html to reflect the new count
-
-
-
 /* ---------------------------------Dhikr-1----------------------------------------------*/
 
 
