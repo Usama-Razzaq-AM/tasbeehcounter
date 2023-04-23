@@ -1,7 +1,6 @@
 @media screen and (max-width: 992px){
 
     body {
-        /* background-image: url("./kaba.jpg"); */
         background-position: center;
     }
 
@@ -24,7 +23,7 @@
     .container-1{
         grid-column: 1/-1;
         background-color: white;
-        margin: 0px 40px;
+        margin: auto;
         border: 3px solid black;
         border-radius: 10px;
     }
@@ -32,7 +31,7 @@
     .container-2{
         grid-column: 1/-1;
         background-color: white;
-        margin: 0px 40px;
+        margin: auto;
         border: 3px solid black;
         border-radius: 10px;
     }
@@ -40,7 +39,7 @@
     .container-3{
         grid-column: 1/-1;
         background-color: white;
-        margin: 0px 40px;
+        margin: auto;
         border: 3px solid black;
         border-radius: 10px;
     }
@@ -48,13 +47,21 @@
     .container-4{
         grid-column: 1/-1;
         background-color: white;
-        margin: 0px 40px;
+        margin: auto;
         border: 3px solid black;
         border-radius: 10px;
     }
-    
+
     button {
-        width: 300px;
+        width: 350px;
     }
     
+}
+
+
+@media screen and (max-width: 390px){
+    button {
+        width: 270px;
+    }
+
 }
